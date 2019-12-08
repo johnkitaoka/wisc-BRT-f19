@@ -9,7 +9,7 @@ Establishing a solid visual context was the first concern, using Geopandas and D
 <image></image>
 
 Preprocessing involved categorization of certain existing bus stops within walking distance to a proposed BRT stop location. Since the new transportation network is centered around rapid transportation, the difference in timing involved with each route arrival and departure was minimal. 
-We classified walking distance as within a half kilometer, or about a 5 minute walk. 
+We classified walking distance as within a half kilometer, or about a 5-minute walk. 
 
 <image></image>
 
@@ -21,8 +21,7 @@ Certain routes also had much higher proportions of inefficient stops than others
 
 <image></image>
 
-Of these routes, we reccommend elimination of routes 25, 67, 12 and 1 because these routes alone would cost an excess of $132, 000 annually to maintain based off of budget estimates of $2,500 per stop.
-
+Of these routes, we recommend elimination of routes 25, 67, 12 and 1 because these routes alone would cost an excess of $132, 000 annually to maintain based off of budget estimates of $2,500 per stop.
 
 ## Authors
 
@@ -31,6 +30,4 @@ Of these routes, we reccommend elimination of routes 25, 67, 12 and 1 because th
 * **Jin Woo Lee**  - [Jin's Github](https://github.com/jinlee487)
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
